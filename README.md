@@ -20,7 +20,7 @@ $ cd WebankFinTechathon_FATEESGAgent
 # 安装全部依赖
 $ pip install -r requirements.txt 
 
-请按照自己需求调整requirements.txt 中相应依赖取消注释再安装。
+# 请按照自己需求调整requirements.txt 中相应依赖取消注释再安装。
 ```
 ### 2、一键启动
 ```
