@@ -22,7 +22,9 @@ $ pip install -r requirements.txt
 请将 requirements.txt 中相应依赖取消注释再安装。
 ```
 ### 2、一键启动
+```
 python web_demo.py
+```
 ### 3、启动页面示例
 ![](/resource/log_in.png "登入")
 
